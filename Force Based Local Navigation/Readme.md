@@ -1,4 +1,4 @@
-# TTC-based Local Navigation for Multiple Agent
+# Time-to-Collision(TTC) based Local Navigation for Multiple Agent
 
 ## Description
 
