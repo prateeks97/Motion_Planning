@@ -2,7 +2,7 @@
 
 This repository contains some implementations of some path planning algorithms.
 
-## Sampling-based Graph Search Algorithms
+## Sampling-based Graph Search Algorithms:
 1. Depth-first search (DFS)
 2. Uniform Cost search (UCS)
 3. A* search
@@ -12,4 +12,3 @@ This repository contains some implementations of some path planning algorithms.
 
 ## Force-based Path Planning:
 1. Time-to-collision approach
-
