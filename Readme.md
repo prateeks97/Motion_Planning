@@ -9,7 +9,7 @@ This repository contains some implementations of some path planning algorithms.
 5. Rapidly-exploring Random Trees (RRT)
 6. Asymptotically Optimal Rapidly-exploring Random Trees (RRT*)
 
-## Force-based Path Planning:
+## Force-based Local Navigation:
 1. Time-to-collision approach
 
 ## Visualizations of sampling-based Graph Search Algorithms:
@@ -26,5 +26,10 @@ This repository contains some implementations of some path planning algorithms.
 a
 ### 6. Rapidly-exploring Random Trees* (RRT*): (Asymptotically optimal version of RRT) 
 a
-## Force-based Path Planning:
-1. Time-to-collision approach
+## Force-based Local Navigation:
+### TTC based approach
+1.  8 Agent Simulation
+<img  src="https://github.com/prateeks97/Motion_Planning/blob/master/Force%20Based%20Local%20Navigation/8%20Agents/Implementation/8_agents.gif"  width="500"  height="500"/>
+
+2.  Crowd Crossing Simulation
+<img  src="https://github.com/prateeks97/Motion_Planning/blob/master/Force%20Based%20Local%20Navigation/Crowd%20Crossing/Implementation/crowd_crossing.gif"  width="500"  height="500"/>
