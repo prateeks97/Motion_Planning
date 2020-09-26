@@ -1,15 +1,15 @@
 # Motion planning algorithms
 
 This repository contains some implementations of some path planning algorithms.
-## [Sampling-based Graph Search Algorithms:](https://github.com/shorane/Motion_Planning/tree/master/Sampling_based)
-[1. Depth-First Search (DFS)](https://github.com/shorane/Motion_Planning/tree/master/Sampling_based/Astar_DFS_UCS)
-[2. Uniform Cost Search (UCS)](https://github.com/shorane/Motion_Planning/tree/master/Sampling_based/Astar_DFS_UCS)
-[3. Astar (A*)](https://github.com/shorane/Motion_Planning/tree/master/Sampling_based/Astar_DFS_UCS)
-[4. Probabilistic Roadmap Generation (PRM)](https://github.com/shorane/Motion_Planning/tree/master/Sampling_based/Probabilistic_Roadmap_PRM)
-[5. Rapidly-exploring Random Trees (RRT)](https://github.com/shorane/Motion_Planning/tree/master/Sampling_based/RRT_RRT_star)
-[6. Asymptotically Optimal Rapidly-exploring Random Trees (RRT*)](https://github.com/shorane/Motion_Planning/tree/master/Sampling_based/RRT_RRT_star)
+## Sampling-based Graph Search Algorithms:
+[1. Depth-First Search (DFS)](https://github.com/shorane/Motion_Planning/tree/master/Sampling_based/Astar_DFS_UCS) 
+[2. Uniform Cost Search (UCS)](https://github.com/shorane/Motion_Planning/tree/master/Sampling_based/Astar_DFS_UCS) 
+[3. Astar (A*)](https://github.com/shorane/Motion_Planning/tree/master/Sampling_based/Astar_DFS_UCS) 
+[4. Probabilistic Roadmap Generation (PRM)](https://github.com/shorane/Motion_Planning/tree/master/Sampling_based/Probabilistic_Roadmap_PRM) 
+[5. Rapidly-exploring Random Trees (RRT)](https://github.com/shorane/Motion_Planning/tree/master/Sampling_based/RRT_RRT_star) 
+[6. Asymptotically Optimal Rapidly-exploring Random Trees (RRT*)](https://github.com/shorane/Motion_Planning/tree/master/Sampling_based/RRT_RRT_star) 
 
-## [Force-based Local Navigation:](https://github.com/shorane/Motion_Planning/tree/master/Force%20Based%20Local%20Navigation)
+## Force-based Local Navigation:
 [1. 8 Agent Simulation](https://github.com/shorane/Motion_Planning/tree/master/Force%20Based%20Local%20Navigation/8%20Agents)
 [2. Crowd Crossing Simulation](https://github.com/shorane/Motion_Planning/tree/master/Force%20Based%20Local%20Navigation/Crowd%20Crossing)
 
