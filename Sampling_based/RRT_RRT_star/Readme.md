@@ -1,6 +1,6 @@
 # Rapidly-exploring Random Trees (RRT and RRT*)
 
 ## RRT
-![RRT](https://github.com/shorane/Motion_Planning/blob/master/Sampling_based/RRT_RRT_star/video/RRT_gif.gif width="250" height="250")
+<img src="https://github.com/shorane/Motion_Planning/blob/master/Sampling_based/RRT_RRT_star/video/RRT_gif.gif" width="40" height="40" />
 ## RRT*
-![RRT*](https://github.com/shorane/Motion_Planning/blob/master/Sampling_based/RRT_RRT_star/video/RRT_gif.gif width="250" height="250")
+<img src="https://github.com/shorane/Motion_Planning/blob/master/Sampling_based/RRT_RRT_star/video/rrt_star_gif.gif" width="40" height="40" />
