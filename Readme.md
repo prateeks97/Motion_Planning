@@ -10,7 +10,7 @@ This repository contains some implementations of some path planning algorithms.
 ### 3. A* search: 
 ![Astar](https://github.com/shorane/Motion_Planning/blob/master/Sampling_based/Astar_DFS_UCS/implementation/Astar.gif)
 ### 4. Probabilistic Roadmap Generation (PRM): 
-![PRM](https://github.com/shorane/Motion_Planning/blob/master/Sampling_based/Probabilistic_Roadmap_PRM/images/Path.png)
+![PRM](https://github.com/shorane/Motion_Planning/blob/master/Sampling_based/Probabilistic_Roadmap_PRM/images/Path.png "width"=400 "height"=400)
 ### 5. RRT
 ### 6. RRT*
 
