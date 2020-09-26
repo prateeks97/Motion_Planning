@@ -8,4 +8,7 @@ More information regarding the "Uncertainity Models for TTC-Based Collision Avoi
 ## Content
 
  1. [8 Agent Simulation](https://github.com/prateeks97/Motion_Planning/tree/master/Force%20Based%20Local%20Navigation/8%20Agents)
- 2. [Crowd Crossing Simulation](https://github.com/prateeks97/Motion_Planning/tree/master/Force%20Based%20Local%20Navigation/Crowd%20Crossing)
+![8 Agent](https://github.com/prateeks97/Motion_Planning/blob/master/Force%20Based%20Local%20Navigation/8%20Agents/Implementation/8_agents.gif)
+
+ 2. [Crowd Crossing Simulation](https://github.com/prateeks97/Motion_Planning/tree/master/Force%20Based%20Local%20Navigation/Crowd%20Crossing) 
+ ![Crowd Crossing](https://github.com/prateeks97/Motion_Planning/blob/master/Force%20Based%20Local%20Navigation/Crowd%20Crossing/Implementation/crowd_crossing.gif)
