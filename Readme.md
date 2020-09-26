@@ -24,8 +24,10 @@ This repository contains some implementations of some path planning algorithms.
 
 ### 5. Rapidly-exploring Random Trees (RRT): 
 <img src="https://github.com/shorane/Motion_Planning/blob/master/Sampling_based/RRT_RRT_star/video/RRT_gif.gif" width="400" height="400" />
+
 ### 6. Rapidly-exploring Random Trees* (RRT*): (Asymptotically optimal version of RRT) 
 <img src="https://github.com/shorane/Motion_Planning/blob/master/Sampling_based/RRT_RRT_star/video/rrt_star_gif.gif" width="400" height="400" />
+
 ## Force-based Local Navigation (TTC based approach):
 ### 1. 8 Agent Simulation
 <img  src="https://github.com/prateeks97/Motion_Planning/blob/master/Force%20Based%20Local%20Navigation/8%20Agents/Implementation/8_agents.gif"  width="500"  height="500"/>
